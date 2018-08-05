@@ -1,0 +1,75 @@
+/*
+* @Author: Administrator
+* @Date:   2018-08-05 15:36:31
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-08-05 18:56:37
+*/
+*{
+	margin: 0;
+	padding: 0;
+}
+.identity{
+	width: 3.34rem;
+	height: 3.34rem;
+	margin: 1.27rem auto 0;
+	background: url('../image/shenti@3x.png');
+	background-size: 100% 100%;
+}
+.word1{
+	text-align: center;
+	height: 0.29rem;
+	font-size: 0.29rem;
+	color: #13e945;
+	margin: 0.92rem auto 0;
+	font-weight: 700;
+}
+.word2{
+	text-align: center;
+	height: 0.21rem;
+	font-size: 0.21rem;
+	color: #afaeae;
+	margin: 0.26rem auto 0;
+	font-weight: 700;
+
+}
+.box{
+	width: 4.82rem;
+	height: 0.3rem;
+	margin: 1.5rem auto 0;
+	border-bottom: 0.01rem solid #afaeae;
+	position: relative;
+
+}
+.left{
+	width: 0.77rem;
+	height: 0.25rem;
+	background: url('../image/yuanjiao@3x.png');
+	background-size: 100%,100%;
+	float: left;
+	
+}   
+.right{
+
+	text-align: center;
+	height: 0.22rem;
+	font-size: 0.22rem;
+	color: #afaeae;
+	margin: 1.5rem auto 0;
+	font-weight: 700;
+	float: left;
+    position: absolute;
+    left: 1rem;
+    bottom: 8px;
+
+}
+.recognize{
+	width: 3.57rem;
+	height: 0.7rem;
+	border-radius: 1.2rem;
+	line-height: 0.7rem;
+	text-align: center;
+	font-size: 0.2rem;
+	margin: 3rem auto 0;
+	background: #e8e6e6;
+	color: #aec6b0
+}

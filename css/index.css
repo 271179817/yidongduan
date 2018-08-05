@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.logo{
+	width: 2.04rem;
+	height: 2.04rem;
+	margin: 1.13rem auto 0;
+	background: url('../image/logo.png');/* 背景图片 */
+	background-size: 100% 100%;
+}
+.word{
+	/* width: 1.01rem; */
+	text-align: center;
+	height: 0.16rem;
+	font-size: 0.16rem;
+	color: #000000;
+	margin: 1.22rem auto;
+	font-weight: 800;
+}
+.button-password{
+	width: 3.57rem;
+	height: 0.7rem;
+	border-radius: 1.2rem;
+	line-height: 0.7rem;
+	text-align: center;
+	font-size: 0.2rem;
+	color: #fefffe;
+	margin: 4.46rem auto 0;
+	background: linear-gradient(to left, #3e9dff,#8cc1f7);
+	box-shadow: 0 0 100px rgba(152, 198, 245, .4)
+}
+.button-people{
+	width: 3.57rem;
+	height: 0.7rem;
+	border-radius: 1.2rem;
+	line-height: 0.7rem;
+	text-align: center;
+	font-size: 0.2rem;
+	color: #fefffe;
+	margin: 0.39rem auto 0;
+	background: linear-gradient(to left, #f7ab2f , #f7b32f);
+	box-shadow: 0 0 100px rgba(238, 203, 129, .4)
+}
+
